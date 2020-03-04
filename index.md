@@ -1,12 +1,9 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/03/04/84258579_168173014475140_3716137250338588524_n.jpg"
 layout: landing-page
-heading: Belkirk College
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+heading: Chicago
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -16,17 +13,19 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+sub_heading: and all that jazz...
+textline: |-
+  Chicago
+
+  Just a test....
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
