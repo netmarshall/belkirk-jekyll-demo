@@ -13,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: and all that jazz...
+sub_heading: and all that jazz...that jazz
 textline: |-
   Chicago
 
