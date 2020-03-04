@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/04/84258579_168173014475140_3716137250338588524_n.jpg"
+banner_image: "/uploads/2020/03/04/81893087_811261119390370_1543728061807536696_n.jpg"
 layout: landing-page
 heading: Chicago
 partners: []
